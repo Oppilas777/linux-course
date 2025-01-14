@@ -1,6 +1,6 @@
 # h1 - Hello World
 
-a) My First tas was
+a) My First task was
 
 ## References
 
