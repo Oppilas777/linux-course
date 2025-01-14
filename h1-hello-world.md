@@ -4,4 +4,4 @@ a) My First task was
 
 ## References
 
-https://github.com/Oppilas777/linux-course/new/main 
+https://github.com/Oppilas777/linux-course/edit/main/h1-hello-world.md 
