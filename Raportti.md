@@ -25,6 +25,10 @@ Järjestelmän malli: HP Laptop 14-dk1xxx Järjestelmän tyyppi: x64-based PC Wi
 
 Asennus on suoritettu ohjeiden mukaan: https://terokarvinen.com/2021/install-debian-on-virtualbox/ 
 
+- Joonas Janttonen
+
+=========
+
 
 
 
