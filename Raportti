@@ -1,0 +1,18 @@
+Raportti: Debian Linux -asennus ja laitteistopäivitys
+===
+28.1.2025.
+===
+
+Asennus ja päivitykset: Debian Linux asennettiin koneeseen, jossa RAM-muisti päivitettiin 4 GB:stä 8 GB:iin. 
+Asennuksen yhteydessä lisättiin myös tarvittavat ohjelmistot, kuten XFCE-työpöytäympäristö (XFCE64.iso) ja Oracle VirtualBox.
+
+Asennuksen jälkeen XFCE-työpöytäympäristö ei toiminut odotetusti, eikä se käynnistynyt. (22.1.25)
+
+25.1.2025. Kokeilin asentaa toiseen koneeseen, mutta ongelmat toistuivat.
+
+Koneen tiedot: 
+Suoritin: AMD Ryzen 3 3250U with Radeon Graphics, 2600 Mhz. 2 ydin(tä). 4 loogista suoritinta. 
+Järjestelmän malli: HP Laptop 14-dk1xxx Järjestelmän tyyppi: x64-based PC Windowsin version: Microsoft Windows 11 Home
+
+28.1.25. Koneeseen päivitettiin RAM-muisti 4 GB -> 8 GB
+
