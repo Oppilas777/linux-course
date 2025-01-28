@@ -18,6 +18,7 @@ Järjestelmän malli: HP Laptop 14-dk1xxx Järjestelmän tyyppi: x64-based PC Wi
 
 ![Image](https://github.com/user-attachments/assets/2b68e96a-ee43-471a-a032-fd243459bf5a)
 ![Image](https://github.com/user-attachments/assets/bdb2354a-3764-4cac-94dc-8a5cc0059ea6)
+![Image](https://github.com/user-attachments/assets/5dd5bd08-45a6-49db-8078-bd4d64dc2d90)
 
 
 
