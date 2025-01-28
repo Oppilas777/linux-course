@@ -14,7 +14,7 @@ Koneen tiedot:
 Suoritin: AMD Ryzen 3 3250U with Radeon Graphics, 2600 Mhz. 2 ydin(tä). 4 loogista suoritinta. 
 Järjestelmän malli: HP Laptop 14-dk1xxx Järjestelmän tyyppi: x64-based PC Windowsin version: Microsoft Windows 11 Home
 
-28.1.25. Koneeseen päivitettiin RAM-muisti 4 GB -> 8 GB
+28.1.25. Koneeseen päivitettiin RAM-muisti 4 GB -> 8 GB (Kingston FURY Impact DDR4 MHz S0 DIMM CL20722444
 
 ![Image](https://github.com/user-attachments/assets/2b68e96a-ee43-471a-a032-fd243459bf5a)
 ![Image](https://github.com/user-attachments/assets/bdb2354a-3764-4cac-94dc-8a5cc0059ea6)
