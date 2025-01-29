@@ -25,7 +25,15 @@ Järjestelmän malli: HP Laptop 14-dk1xxx Järjestelmän tyyppi: x64-based PC Wi
 
 Asennus on suoritettu ohjeiden mukaan: https://terokarvinen.com/2021/install-debian-on-virtualbox/ 
 
-- Joonas Janttonen
+29.1.2025.
+
+11:25 Aloitan Linuxin asentamisen käyttämällä Rufusta. 
+
+11:29 Tallennan tietokoneelle tiedoston: [ISO] (https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/) 
+
+12:01 Asennus onnistui. Linux on käytettävissä Live-tikulla.
+
+
 
 
 
