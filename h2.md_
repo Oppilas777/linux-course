@@ -20,9 +20,8 @@ x) Lue ja tiivistä
 
 
 Raportti: Debian Linux -asennus ja laitteistopäivitys
-===
+
 28.1.2025.
-===
 
 Asennus ja päivitykset: Debian Linux asennettiin koneeseen, jossa RAM-muisti päivitettiin 4 GB:stä 8 GB:iin. 
 Asennuksen yhteydessä lisättiin myös tarvittavat ohjelmistot, kuten XFCE-työpöytäympäristö (XFCE64.iso) ja Oracle VirtualBox.
