@@ -41,3 +41,5 @@ Asennus on suoritettu ohjeiden mukaan: https://terokarvinen.com/2021/install-deb
 
 
 
+
+
