@@ -55,6 +55,9 @@ Asennus on suoritettu ohjeiden mukaan: https://terokarvinen.com/2021/install-deb
 
 12:01 Asennus onnistui. Linux on käytettävissä Live-tikulla.
 
+12:02 Debianin käyttäminen onnistuu (välitettömästi), ilman että sen lataa koneelle. 
+Testaan ohjelmia. Ei näyttänyt tulevan mitään ongelmia. TOsin tiedostot eivät tallennu USB-livetikku käytettätessä. 
+
 12:14 Aloitan tehtävien työstämisen.
 
 
